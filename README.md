@@ -3,6 +3,7 @@
 Bienvenue dans le troisième chapitre de ma formation A4Q Selenium Tester Foundation, dédié à la synchronisation et gestion des interactions dynamiques avec Selenium WebDriver.
 
 📄 Contenu du chapitre 3
+
 🕒 Utilisation des attentes implicites et explicites avec WebDriverWait
 
 ⏱️ Gestion des éléments dynamiques ou à chargement retardé
