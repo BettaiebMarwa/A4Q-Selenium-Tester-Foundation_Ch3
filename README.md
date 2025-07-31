@@ -1,4 +1,5 @@
 📘 Chapitre 3 – A4Q Selenium Tester Foundation
+
 Bienvenue dans le troisième chapitre de ma formation A4Q Selenium Tester Foundation, dédié à la synchronisation et gestion des interactions dynamiques avec Selenium WebDriver.
 
 📄 Contenu du chapitre 3
@@ -26,6 +27,7 @@ Ce chapitre vous permettra de :
 Comprendre les mécanismes d'attente dans Selenium
 Synchroniser efficacement vos tests avec le comportement réel de l'application
 Améliorer la stabilité et la fiabilité de vos scripts de test
+
 👩‍💻 Auteur
 Marwa Bettaieb
 Ingénieure QA | Tests manuels & automatisés | Passionnée par la qualité logicielle
